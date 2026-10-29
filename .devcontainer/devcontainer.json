@@ -15,7 +15,7 @@
 
 	"features": {
 		// Install docker in container
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {
+		"ghcr.io/devcontainer-config/features/dot-config:5": {}
 			// Use proprietary docker engine. I get a timeout error when using the default moby engine and loading
 			// microsoft's PGP keys
 			"moby": false
